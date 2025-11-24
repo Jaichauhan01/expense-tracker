@@ -1,5 +1,5 @@
 import { useMemo } from "react";
-import { formatDate } from "../utils/FormatDate";
+import { formatDate } from "../utils/formatDate";
 import { useTheme } from "../context/ThemeContext";
 
 /**
